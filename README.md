@@ -5,4 +5,4 @@
 ### Create Dockerfile
 ### mvn clean package
 ### docker build -t my-service .
-### docker run -p 4000:8080 -t my-service
+### docker run -p 9991:9991 -t employee_service --name employee_servicevice
